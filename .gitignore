@@ -1,0 +1,8 @@
+# 1. Programming Environment / Dependency / IDE Folders
+.vscode/
+
+# 2. Build Directories
+out/
+
+# 3. Temp Files
+tempCodeRunnerFile.py
